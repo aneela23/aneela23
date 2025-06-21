@@ -48,7 +48,8 @@ Data Engineer with over 5+ years of experience designing, developing, and optimi
 📧 aneelag23@gmail.com   
 🌐 [LinkedIn](https://www.linkedin.com/in/aneelag)  
 🏅 [AWS Certified Solutions Architect Badge](https://www.credly.com/badges/831f3e1a-0543-4e0e-be62-3732dbd39eba/public_url)
-📂 [Generative AI Fundamentals](https://www.cloudskillsboost.google/public_profiles/089c31c7-997b-4521-bcce-9cfcc3ecb871/badges/5923986)
+🏅 [Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/089c31c7-997b-4521-bcce-9cfcc3ecb871/badges/5984997)
+🏅 [Generative AI Fundamentals](https://www.cloudskillsboost.google/public_profiles/089c31c7-997b-4521-bcce-9cfcc3ecb871/badges/5923986)
 
 
 ---
