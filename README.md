@@ -47,7 +47,9 @@ Data Engineer with over 5+ years of experience designing, developing, and optimi
 
 📧 aneelag23@gmail.com   
 🌐 [LinkedIn](https://www.linkedin.com/in/aneelag)  
+🏅 AWS Certified Solutions Architect Badge
 📂 [Google Badge](https://www.cloudskillsboost.google/public_profiles/089c31c7-997b-4521-bcce-9cfcc3ecb871/badges/5923986)
+
 
 ---
 
