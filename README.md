@@ -24,7 +24,7 @@ I am a Senior Data Engineer with 6+ years of experience building scalable, cloud
 
 ## 🚀 Key Skills & Tools
 
-**Languages:** Python, SQL  
+**Languages:** Python, R, SQL  
 **Cloud Platforms:** AWS (S3, Lambda, Redshift, Glue, IAM, Cloudwatch), Azure (Data Factory, Synapse, ADLS, Key Vault), GCP (BigQuery)  
 **Big Data & Frameworks:** PySpark, Databricks, Apache Spark, Kafka, Airflow, Hadoop  
 **ETL & Pipelines:** CI/CD with GitHub Actions, Terraform, Step Functions, Unity Catalog, Great Expectations  
