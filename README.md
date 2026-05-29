@@ -59,7 +59,7 @@ I am a Senior Data Engineer with 6+ years of experience building scalable, cloud
 
 ---
 
-## 📊 3. Enterprise Data Platform Migration (Oracle → Redshift) | Commonwealth of Massachusetts
+## 📊 3. Enterprise Data Platform Migration (Oracle, MsSQL → Redshift) | Commonwealth of Massachusetts
 **Tech Stack:** Python, SQL, AWS (S3, Glue, Lambda, Step Functions, Redshift), Airflow
 
 - Led large-scale migration of enterprise data from Oracle and SQL Server to Amazon Redshift.
